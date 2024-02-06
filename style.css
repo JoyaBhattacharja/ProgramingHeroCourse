@@ -3,7 +3,8 @@ body {
   }
 p{
     color: green;
-    background-color:#ff6347;
+    font-size: 160%;
+    border: 2px solid #ff6347;
 }
 h1{
     color:aliceblue;
@@ -11,5 +12,11 @@ h1{
     background-color:rgba(255, 99, 71, 0.5);
     font-family: verdana;
     font-size: 300%;
+    text-align: center;
+}
+h2{
+    color:rgb(16, 216, 36);
+    font-size: 150;
+    font-family: sans-serif ;
     text-align: center;
 }
