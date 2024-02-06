@@ -1,0 +1,9 @@
+p{
+    color: green;
+    background-color:#ff6347;
+}
+h1{
+    color:aliceblue;
+    border: 200 px solid rgb(221, 37, 37);
+    background-color:rgba(255, 99, 71, 0.5);
+}
