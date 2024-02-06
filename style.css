@@ -70,5 +70,9 @@ table,th,td {
 }
 th,td{
     background-color: #96D4D4;
-    
+    border-style: dotted;
+    padding: 2px;
+}
+th {
+    text-align: left;
 }
