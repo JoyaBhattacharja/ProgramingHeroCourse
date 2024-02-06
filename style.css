@@ -28,23 +28,31 @@ h2{
     height: 15px;
 }
 .Click-Me-1{
-    color:aqua;
-    background-color: darkcyan;
+    background-color:white;
     margin:50px;
 }
 .Click-Me-2{
-    color: aqua;
-    background-color: darkcyan;
+    background-color: white;
     margin:50px;
 }
 .Click-Me-3{
-    color:aqua;
-    background-color: darkcyan;
+    background-color: white;
     margin:50px;
 }
 .Click-Me-4{
-    color:aqua;
-    background-color: darkcyan;
+    background-color:white;
     margin:50px;
+}
+.Click-Me-1:hover{
+    background-color:springgreen;  
+}
+.Click-Me-2:hover{
+    background-color:springgreen;  
+}
+.Click-Me-3:hover{
+    background-color:springgreen;  
+}
+.Click-Me-4:hover{
+    background-color:springgreen;  
 }
 
