@@ -57,7 +57,9 @@ h2{
 }
 #backgrndimg{
     background-image: url('media/bsckground_image.jpg');
-    width: 500px;
-    height: 300px;
+    width: 100%;
+    height: 350px;
     text-align:justify;
+    border: 100% solid blue;
+    
 }
