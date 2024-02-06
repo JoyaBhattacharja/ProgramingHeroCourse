@@ -6,6 +6,7 @@ p{
     font-size: 160%;
     border: 2px solid #ff6347;
     padding: 12px;
+    margin: 15px;
 }
 h1{
     color:aliceblue;
@@ -21,3 +22,10 @@ h2{
     font-family: sans-serif ;
     text-align: center;
 }
+#image{
+    
+    width:15px;
+    height: 15px;
+}
+
+
