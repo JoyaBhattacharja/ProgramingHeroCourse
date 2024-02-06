@@ -55,4 +55,9 @@ h2{
 .Click-Me-4:hover{
     background-color:springgreen;  
 }
-
+#backgrndimg{
+    background-image: url('media/bsckground_image.jpg');
+    width: 500px;
+    height: 300px;
+    text-align:justify;
+}
