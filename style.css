@@ -86,3 +86,6 @@ th,td{
 th {
     text-align: justify;
 }
+ul{
+    list-style-type: disc;
+}
